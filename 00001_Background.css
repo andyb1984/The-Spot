@@ -1,0 +1,10 @@
+﻿body {
+	background-image: url('Images/IMG_0002.png');
+	-moz-background-size: cover;
+	-webkit-background-size: cover;
+	background-size: cover;
+	background-position: top center !important;
+	background-repeat: no-repeat !important;
+	background-attachment: fixed;
+}
+
